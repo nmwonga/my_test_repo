@@ -9,6 +9,11 @@ output: html_document
 This is my first attempt at making a file.
 
 ```{r}
+library(fivethirtyeight)
+```
+
+
+```{r}
 summary(daily_show_guests)
 ```
 
